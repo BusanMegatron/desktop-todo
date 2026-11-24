@@ -1,13 +1,13 @@
-tasks.json
-
-__pycache__/
-*.pyc
-.venv/
-venv/
-
-.env
 build/
 dist/
 
 .idea/
 .vscode/
+
+# Python virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
