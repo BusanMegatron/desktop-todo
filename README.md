@@ -1,1 +1,1 @@
-Desktop App for Polina
+# Desktop App for Polina
